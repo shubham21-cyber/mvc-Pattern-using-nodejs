@@ -1,0 +1,23 @@
+body{
+    background: url(app.jpg);
+}
+
+.jumbotron{
+    background: rgba(114, 101, 111, 0.4)
+    border-box 
+}
+
+.jumbotron:hover{
+    background: rgba(37, 221, 46, 0.5)
+}
+#div1{
+color:white;
+}
+#div2{
+color: white;
+}
+h3{
+    background-color: rgb(6, 248, 248,0.5);
+    text-align: center;
+    color: red;
+}

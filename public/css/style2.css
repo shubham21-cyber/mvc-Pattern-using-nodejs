@@ -1,0 +1,21 @@
+.body1{
+    background: url("abcd.jpg")
+}
+
+.jumbotron{
+    background: rgb(127, 255, 212, 0.5)
+}
+h3{
+    background-color: rgba(255, 1, 1, 0.6);
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+.jumbotron:hover{
+    background: rgba(224, 29, 176, 0.5)
+}
+.div1{
+    color: rgb(238, 216, 15);
+}
+.div2{
+    color: rgb(218, 241, 11);
+}

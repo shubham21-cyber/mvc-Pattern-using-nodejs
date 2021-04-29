@@ -1,0 +1,22 @@
+#body1{
+    background: aquamarine;
+}
+h3{
+    background-color: red;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h3:hover{
+    color : greenyellow
+}
+#div1:hover{
+background-color: rgb(211, 179, 38);
+}
+.jumbotron:hover{
+    background-color: rgb(0, 140, 255);
+}
+#btn1:hover{
+background-color: rgb(236, 113, 113);
+color :rgb(0, 140, 255)	
+}
